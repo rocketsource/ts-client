@@ -42,5 +42,8 @@
     "typescript"
   ],
   "author": "RocketSource",
-  "license": "MIT"
+  "license": "MIT",
+  "publishConfig": {
+    "access": "public"
+  }
 }
