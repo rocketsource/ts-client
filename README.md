@@ -2,7 +2,11 @@
 
 A fully typed TypeScript client library for the [RocketSource API](https://rocketsource.io).
 
-[Visit RocketSource](https://rocketsource.io) to get started with your Amazon seller analysis.
+## About RocketSource
+
+RocketSource is a powerful platform designed for Amazon sellers to analyze, optimize, and grow their businesses. It provides intelligent tools for product research, competitive analysis, and market insights across multiple Amazon marketplaces worldwide. Whether you're tracking product performance, researching market opportunities, or analyzing competitor strategies, RocketSource gives you the data and tools you need to make informed business decisions.
+
+[Visit RocketSource](https://rocketsource.io) to learn more and get started with your Amazon seller analysis.
 
 ## Features
 
